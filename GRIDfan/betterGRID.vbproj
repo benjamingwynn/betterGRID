@@ -61,7 +61,7 @@
     <OptionInfer>On</OptionInfer>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>Rokey-The-Last-Order-Candy-Favorites.ico</ApplicationIcon>
+    <ApplicationIcon>gridicon.ico</ApplicationIcon>
   </PropertyGroup>
   <PropertyGroup>
     <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
@@ -153,6 +153,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="gridicon.ico" />
     <Content Include="Rokey-The-Last-Order-Candy-Favorites.ico" />
   </ItemGroup>
   <ItemGroup>
