@@ -1,0 +1,10 @@
+c:\users\rizvan\documents\visual studio 2013\Projects\GRIDfan\GRIDfan\bin\Debug\GRIDfan.exe.config
+c:\users\rizvan\documents\visual studio 2013\Projects\GRIDfan\GRIDfan\bin\Debug\GRIDfan.exe
+c:\users\rizvan\documents\visual studio 2013\Projects\GRIDfan\GRIDfan\bin\Debug\GRIDfan.pdb
+c:\users\rizvan\documents\visual studio 2013\Projects\GRIDfan\GRIDfan\bin\Debug\GRIDfan.xml
+c:\users\rizvan\documents\visual studio 2013\Projects\GRIDfan\GRIDfan\obj\Debug\GRIDfan.Form1.resources
+c:\users\rizvan\documents\visual studio 2013\Projects\GRIDfan\GRIDfan\obj\Debug\GRIDfan.Resources.resources
+c:\users\rizvan\documents\visual studio 2013\Projects\GRIDfan\GRIDfan\obj\Debug\GRIDfan.vbproj.GenerateResource.Cache
+c:\users\rizvan\documents\visual studio 2013\Projects\GRIDfan\GRIDfan\obj\Debug\GRIDfan.exe
+c:\users\rizvan\documents\visual studio 2013\Projects\GRIDfan\GRIDfan\obj\Debug\GRIDfan.xml
+c:\users\rizvan\documents\visual studio 2013\Projects\GRIDfan\GRIDfan\obj\Debug\GRIDfan.pdb

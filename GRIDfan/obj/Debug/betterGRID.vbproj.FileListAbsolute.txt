@@ -1,0 +1,13 @@
+D:\Projects\betterGRID\GRIDfan\bin\Debug\betterGRID.exe.config
+D:\Projects\betterGRID\GRIDfan\bin\Debug\betterGRID.exe
+D:\Projects\betterGRID\GRIDfan\bin\Debug\betterGRID.pdb
+D:\Projects\betterGRID\GRIDfan\bin\Debug\betterGRID.xml
+D:\Projects\betterGRID\GRIDfan\obj\Debug\betterGRID.Form1.resources
+D:\Projects\betterGRID\GRIDfan\obj\Debug\betterGRID.Resources.resources
+D:\Projects\betterGRID\GRIDfan\obj\Debug\betterGRID.vbproj.GenerateResource.Cache
+D:\Projects\betterGRID\GRIDfan\obj\Debug\betterGRID.exe
+D:\Projects\betterGRID\GRIDfan\obj\Debug\betterGRID.xml
+D:\Projects\betterGRID\GRIDfan\obj\Debug\betterGRID.pdb
+D:\Projects\betterGRID\GRIDfan\bin\Debug\OpenHardwareMonitorLib.dll
+D:\Projects\betterGRID\GRIDfan\obj\Debug\betterGRID.vbprojResolveAssemblyReference.cache
+D:\Projects\betterGRID\GRIDfan\obj\Debug\betterGRID.AboutBox1.resources
